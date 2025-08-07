@@ -9,7 +9,7 @@ Este es un proyecto de **API RESTful** desarrollado en **ASP.NET Core Web API** 
 - ASP.NET Core  
 - C#  
 - Entity Framework Core  
-- SQL Server (usando LocalDB o instancia personalizada)  
+- SQLite 
 - Swagger para documentación interactiva  
 
 ---
@@ -27,7 +27,7 @@ This is a **RESTful API** project developed with **ASP.NET Core Web API** that a
 - ASP.NET Core  
 - C#  
 - Entity Framework Core  
-- SQL Server (using LocalDB or custom instance)  
+- SQLite
 - Swagger for interactive documentation  
 
 ---
